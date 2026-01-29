@@ -518,6 +518,7 @@ body {
               url('images14.jpeg') center center no-repeat;
   background-size: cover;
   background-attachment: scroll;
+  background-position: center center;
   padding: 5rem 0 6rem;
   position: relative;
   overflow: hidden;
